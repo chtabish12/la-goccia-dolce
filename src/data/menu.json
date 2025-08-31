@@ -1,0 +1,120 @@
+{
+  "BREAKFAST": [
+    {
+      "name": "Classic Breakfast",
+      "description": "Sausage, Beans, Hash Browns, Eggs, Turkey Rashers, Toast",
+      "price": "£6.99"
+    }
+  ],
+  "CHEF'S PANCAKE STACK": [
+    {
+      "name": "Golden Yolk Stack",
+      "description": "Sausage, Beef Bacon, Spinach, Cheese, Runny Eggs",
+      "price": "£5.99"
+    },
+    {
+      "name": "Dolce Fragola",
+      "description": "Warm Choc, Strawberries, Maple Syrup",
+      "price": "£5.49"
+    },
+    {
+      "name": "Banana Belle",
+      "description": "Fresh Banana, Maple, Nuts",
+      "price": "£5.49"
+    }
+  ],
+  "SOURDOUGH STACK": [
+    {
+      "name": "Smoked Salmon Stack",
+      "description": "Smoked Salmon, Poached Egg, Smashed Avocado, Salsa Verde",
+      "price": "£7.49"
+    },
+    {
+      "name": "Classic Stack",
+      "description": "Turkey Rashers, Poached Egg, Smashed Avocado, Salsa Verde",
+      "price": "£6.49"
+    },
+    {
+      "name": "The Green Bite (V)",
+      "description": "Smashed Avocado, Poached Egg, Salsa Verde",
+      "price": "£4.49"
+    }
+  ],
+  "WRAPS": [
+    {
+      "name": "Falafel Hallumi Wrap (V)",
+      "description": "Classic Falafel, Grilled Hallumi, Lettuce, Special Sauce",
+      "price": "£4.99"
+    },
+    {
+      "name": "Classic Chicken",
+      "description": "Marinated Crispy Chicken Strips, Lettuce, Special Sauce",
+      "price": "£4.99"
+    }
+  ],
+  "SIGNATURE SMOOTHIE BOWLS": [
+    {
+      "name": "Berry Bliss Bowl",
+      "description": "Strawberries, Blueberries, Bananas, Tropical Fruits, Almond Milk",
+      "price": "£7.99"
+    },
+    {
+      "name": "Tropical Paradise Bowl",
+      "description": "Tropical Mango, Pineapple, Banana, Passionfruit, Almond Milk",
+      "price": "£7.99"
+    },
+    {
+      "name": "Peanut Butter Bowl",
+      "description": "Peanut Butter, Bananas, Almond Milk, Chia Seeds, Chocolate Drizzle",
+      "price": "£7.99"
+    }
+  ],
+  "TOASTIES": [
+    {
+      "name": "Tuna Melt",
+      "description": "Tuna, Cheese, Toasted Sliced Bread",
+      "price": "£3.99"
+    },
+    {
+      "name": "Cheese & Egg",
+      "description": "Cheese, Egg, Toasted Sliced Bread",
+      "price": "£3.49"
+    }
+  ],
+  "SIGNATURE BAGELS": [
+    {
+      "name": "Tuna Max Bagel",
+      "description": "Cream Cheese, Tuna, Fresh Salad",
+      "price": "£6.99"
+    },
+    {
+      "name": "Smoked Salmon Bagel",
+      "description": "Smoked Salmon, Cream Cheese, Salad",
+      "price": "£6.99"
+    },
+    {
+      "name": "Leany Munch (V)",
+      "description": "Cream Cheese, Salad",
+      "price": "£5.49"
+    }
+  ],
+  "LA CROISSANTE": [
+    {
+      "name": "Turkey Croissant",
+      "description": "Turkey Rashers, Cheese, Croissant",
+      "price": "£4.99"
+    },
+    {
+      "name": "Caprese Croissant",
+      "description": "Mozzarella, Tomato, Basil, Croissant",
+      "price": "£3.49"
+    }
+  ],
+  "BUNDLE DELIZIOSO": [
+    {
+      "name": "Rustic Avocado",
+      "description": "Avocado, Sourdough Toast, Egg & Cheese Muffin",
+      "price": "£5.49"
+    }
+  ]
+}
