@@ -147,27 +147,27 @@
   ],
   "BITES DELIZIOS": [
     {
-      "name": "Rustici Wurstel",
+      "name": "RUSTICI AI WÜRSTEL",
       "description": "",
-      "price": "£1.19"
+      "price": "£1.49"
     },
     {
-      "name": "Cannoli Choc",
-      "description": "",
-      "price": "£1.29"
-    },
-    {
-      "name": "Cannoli Pistachio",
+      "name": "CANNOLI CHOC",
       "description": "",
       "price": "£1.29"
     },
     {
-      "name": "Aragostine",
+      "name": "CANNOLI PISTACHIO",
       "description": "",
-      "price": "£1.19"
+      "price": "£1.29"
     },
     {
-      "name": "Egg & Cheese Muffin",
+      "name": "ARAGOSTINE",
+      "description": "",
+      "price": "£1.49"
+    },
+    {
+      "name": "GG & CHEESE MUFFIN",
       "description": "",
       "price": "£2.49"
     }
