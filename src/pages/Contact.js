@@ -15,7 +15,7 @@ const deliveryLinks = [
   {
     name: "Just Eat",
     url: "https://www.just-eat.co.uk",
-    logo: "/assets/justeat.png"
+    logo: "/assets/justeatlogo.png"
   }
 ];
 
@@ -36,7 +36,7 @@ const Contact = () => (
       <div className="delivery-icons">
         {deliveryLinks.map(({ name, url, logo }) => (
           <a key={name} href={url} target="_blank" rel="noopener noreferrer" className="delivery-icon-link">
-            <img src={logo} alt={name} className="delivery-logo" />
+            <img src={logo} alt={name} className="delivery-logo" onError={e => {e.target.onerror=null;e.target.src="https://via.placeholder.com/48?text=+"+name}} />
           </a>
         ))}
       </div>
