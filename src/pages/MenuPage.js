@@ -2,10 +2,10 @@ import React from "react";
 import Menu from "../components/Menu";
 
 const MenuPage = () => (
-  <div>
-    <h2>Our Main Menu</h2>
+  <section className="page-section">
+    <h2 style={{color:'#d4af37'}}>Our Main</h2>
     <Menu />
-  </div>
+  </section>
 );
 
 export default MenuPage;

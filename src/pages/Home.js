@@ -1,20 +1,21 @@
 import React from "react";
 
 const Home = () => (
-  <div>
+  <div className="home-intro">
     <h2>Welcome to La Goccia Dolce</h2>
     <p>
-      Discover the perfect blend of Italian passion and British comfort in the heart of Stirchley, Birmingham.
-      Our menu celebrates classic British breakfasts, artisan sourdough stacks, vibrant wraps, and authentic Italian creations.
-      Whether you crave a signature smoothie bowl or a fresh-baked croissant, La Goccia Dolce brings together the best of both worlds.
+      <strong>Italian soul, British heart.</strong> Discover our fusion menu in the heart of Stirchley, Birmingham.
+      From golden pancake stacks and signature bagels to artisan sourdough and vibrant smoothie bowls, each dish is crafted with passion and tradition.
     </p>
     <p>
-      Visit us for a taste of tradition and innovation, served with a golden touch.
+      <span style={{color:'#d4af37', fontWeight:'bold'}}>Start your day golden, end it sweet.</span>
+      <br />
+      Enjoy fresh, wholesome, and irresistible flavors—where Italy meets the UK on every plate.
     </p>
-    <hr />
+    <hr style={{border:'1px solid #d4af37',margin:'1rem 0'}} />
     <div>
       <strong>Address:</strong> 1444 Pershore Rd, Stirchley, Birmingham B30 2PH<br />
-      <strong>Phone:</strong> <a href="tel:01212915614">0121 291 5614</a>
+      <strong>Phone:</strong> <a href="tel:01212915614" style={{color:"#191919"}}>0121 291 5614</a>
     </div>
   </div>
 );

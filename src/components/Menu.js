@@ -1,29 +1,29 @@
 import React, { useEffect, useState } from "react";
+import menuData from "../data/menu.json"; // Direct import for Create React App
 
 const Menu = () => {
   const [menu, setMenu] = useState(null);
 
   useEffect(() => {
-    fetch("/src/data/menu.json")
-      .then((res) => res.json())
-      .then(setMenu);
+    // Direct import works instantly
+    setMenu(menuData);
   }, []);
 
-  if (!menu) return <div>Loading menu...</div>;
+  if (!menu) return <div className="menu-loading">Loading menu...</div>;
 
   return (
-    <div>
+    <div className="menu-container">
       {Object.entries(menu).map(([section, items]) => (
         <div key={section} className="menu-section">
-          <h2>{section}</h2>
+          <h2 className="menu-heading">{section}</h2>
           <ul className="menu-list">
             {items.map((item, i) => (
               <li key={i} className="menu-item">
-                <div className="menu-item-details">
-                  <div className="menu-item-name">{item.name}</div>
-                  <div className="menu-item-description">{item.description}</div>
+                <div>
+                  <span className="menu-item-name">{item.name}</span>
+                  <span className="menu-item-description">{item.description}</span>
                 </div>
-                <div className="menu-item-price">{item.price}</div>
+                <span className="menu-item-price">{item.price}</span>
               </li>
             ))}
           </ul>
