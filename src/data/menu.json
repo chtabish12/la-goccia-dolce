@@ -2,119 +2,174 @@
   "BREAKFAST": [
     {
       "name": "Classic Breakfast",
-      "description": "Sausage, Beans, Hash Browns, Eggs, Turkey Rashers, Toast",
+      "description": "Sausage, Beans, Hash Browns, Egg, Turkey Rashers, Toast, Fresh Juice",
       "price": "£6.99"
     }
   ],
   "CHEF'S PANCAKE STACK": [
     {
       "name": "Golden Yolk Stack",
-      "description": "Sausage, Beef Bacon, Spinach, Cheese, Runny Eggs",
+      "description": "Angus Beef Bacon, Spinach, Cheese, Runny Egg, Maple Syrup",
       "price": "£5.99"
     },
     {
       "name": "Dolce Fragola",
-      "description": "Warm Choc, Strawberries, Maple Syrup",
+      "description": "White Choc Sauce, Strawberries, Flakes, Fresh Cream, Maple Syrup",
       "price": "£5.49"
     },
     {
       "name": "Banana Belle",
-      "description": "Fresh Banana, Maple, Nuts",
+      "description": "Milk Choc Sauce, Banana, Flakes, Fresh Cream, Maple Syrup",
       "price": "£5.49"
     }
   ],
   "SOURDOUGH STACK": [
     {
       "name": "Smoked Salmon Stack",
-      "description": "Smoked Salmon, Poached Egg, Smashed Avocado, Salsa Verde",
+      "description": "Cream Cheese, Fresh Salad, Egg, Cheese Sauce, Smoked Salmon, Cheese Slice, Homemade Sauce & Spices",
       "price": "£7.49"
     },
     {
-      "name": "Classic Stack",
-      "description": "Turkey Rashers, Poached Egg, Smashed Avocado, Salsa Verde",
-      "price": "£6.49"
+      "name": "Salame & Mozzarella",
+      "description": "Mozzarella, Salad Mix, Salami",
+      "price": "£5.49"
     },
     {
       "name": "The Green Bite (V)",
-      "description": "Smashed Avocado, Poached Egg, Salsa Verde",
+      "description": "Avocado Mix, Tomatoes, Salad Mix",
       "price": "£4.49"
+    },
+    {
+      "name": "Cheese Feast (V)",
+      "description": "Cheddar, Mozzarella, Red Leicester, Parmesan, Herbs",
+      "price": "£4.99"
     }
   ],
   "WRAPS": [
     {
-      "name": "Falafel Hallumi Wrap (V)",
-      "description": "Classic Falafel, Grilled Hallumi, Lettuce, Special Sauce",
-      "price": "£4.99"
+      "name": "Falafel Halumi Wrap (V)",
+      "description": "Tahini Sauce, Crispy Falafel, Halumi, Harisa, Mix Salad",
+      "price": "£5.49"
     },
     {
       "name": "Classic Chicken",
-      "description": "Marinated Crispy Chicken Strips, Lettuce, Special Sauce",
-      "price": "£4.99"
+      "description": "Mayo, Crispy Chicken Strips, Lettuce, Special Sauce",
+      "price": "£4.49"
     }
   ],
   "SIGNATURE SMOOTHIE BOWLS": [
     {
       "name": "Berry Bliss Bowl",
-      "description": "Strawberries, Blueberries, Bananas, Tropical Fruits, Almond Milk",
+      "description": "Frozen Strawberries, Blueberries, Banana, Greek Yogurt, Almond Milk, Toppings",
       "price": "£7.99"
     },
     {
       "name": "Tropical Paradise Bowl",
-      "description": "Tropical Mango, Pineapple, Banana, Passionfruit, Almond Milk",
+      "description": "Frozen Mangoes, Pineapple, Banana, Coconut Milk, Toppings",
       "price": "£7.99"
     },
     {
-      "name": "Peanut Butter Bowl",
-      "description": "Peanut Butter, Bananas, Almond Milk, Chia Seeds, Chocolate Drizzle",
+      "name": "Peanut Butter & Banana",
+      "description": "Frozen Banana, Peanut Butter, Oats, Almond Milk, Dash of Cinnamon, Toppings",
       "price": "£7.99"
     }
   ],
   "TOASTIES": [
     {
       "name": "Tuna Melt",
-      "description": "Tuna, Cheese, Toasted Sliced Bread",
+      "description": "Tuna Mayo with Melted Cheese",
       "price": "£3.99"
     },
     {
-      "name": "Cheese & Egg",
-      "description": "Cheese, Egg, Toasted Sliced Bread",
+      "name": "Egg & Cheese",
+      "description": "Runny Egg, Cheese Slice",
       "price": "£3.49"
+    },
+    {
+      "name": "Cheesey Beans",
+      "description": "Buttery Toast, Cheese Melt, Beans",
+      "price": "£2.99"
     }
   ],
   "SIGNATURE BAGELS": [
     {
-      "name": "Tuna Max Bagel",
-      "description": "Cream Cheese, Tuna, Fresh Salad",
-      "price": "£6.99"
+      "name": "Tuna Mix Bagel",
+      "description": "Cream Cheese, Tuna Mix, Fresh Salad, Sour Cream",
+      "price": "£6.49"
     },
     {
       "name": "Smoked Salmon Bagel",
-      "description": "Smoked Salmon, Cream Cheese, Salad",
+      "description": "Cream Cheese, Fresh Salad, Egg, Cheese Sauce, Smoked Salmon, Cheese Slice, Homemade Sauce & Spices",
       "price": "£6.99"
     },
     {
-      "name": "Leany Munch (V)",
-      "description": "Cream Cheese, Salad",
+      "name": "Turkey & Egg",
+      "description": "Cream Cheese, Egg, Garlic & Herb Sauce, Turkey Slices, Fresh Salad, Cheese Slice",
+      "price": "£5.99"
+    },
+    {
+      "name": "Beefy Bagel",
+      "description": "Mustard, Cheese Slice, Beef Slices, Mix Salad, Cheese Sauce",
+      "price": "£5.49"
+    },
+    {
+      "name": "Leafy Munch (V)",
+      "description": "Cream Cheese, Avocado Mix, Egg, Salad Mix, Pickled Onions, Cheese Slice",
       "price": "£5.49"
     }
   ],
   "LA CROISSANTE": [
     {
-      "name": "Turkey Croissant",
-      "description": "Turkey Rashers, Cheese, Croissant",
+      "name": "Turkey Enchanté",
+      "description": "Sliced, Roasted Turkey, Herbed Cream Cheese, Baby Leaf, Tomato, Mustard",
       "price": "£4.99"
     },
     {
-      "name": "Caprese Croissant",
-      "description": "Mozzarella, Tomato, Basil, Croissant",
+      "name": "Caprese Croissant (V)",
+      "description": "Fresh Mozzarella, Tomato Slices, Fresh Basil",
+      "price": "£3.49"
+    },
+    {
+      "name": "Crème de Fraise",
+      "description": "Fresh Cream, Strawberry Slices, Strawberry Sauce",
+      "price": "£3.49"
+    },
+    {
+      "name": "Banana Royal",
+      "description": "Nutella, Sliced Banana, Mascarpone",
+      "price": "£3.49"
+    },
+    {
+      "name": "Praline de Pistach",
+      "description": "Homemade Pistachio Cream, Crushed Pistachio",
       "price": "£3.49"
     }
   ],
-  "BUNDLE DELIZIOSO": [
+  "BITES DELIZIOS": [
     {
-      "name": "Rustic Avocado",
-      "description": "Avocado, Sourdough Toast, Egg & Cheese Muffin",
-      "price": "£5.49"
+      "name": "Rustici Wurstel",
+      "description": "",
+      "price": "£1.19"
+    },
+    {
+      "name": "Cannoli Choc",
+      "description": "",
+      "price": "£1.29"
+    },
+    {
+      "name": "Cannoli Pistachio",
+      "description": "",
+      "price": "£1.29"
+    },
+    {
+      "name": "Aragostine",
+      "description": "",
+      "price": "£1.19"
+    },
+    {
+      "name": "Egg & Cheese Muffin",
+      "description": "",
+      "price": "£2.49"
     }
   ]
 }
