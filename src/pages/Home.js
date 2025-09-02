@@ -99,8 +99,8 @@ const Home = () => (
       <img src={storyImg} alt="La Goccia Dolce Story" />
       <p>
         La Goccia Dolce is a family-run café born from a love of food, togetherness, and a passion for sweet indulgence. What began as a dream has grown into a warm space where mornings are filled with the aroma of fresh coffee and hearty brunch, and evenings sparkle with irresistible desserts.<br /><br />
-        From 8am to 4pm, we serve a comforting brunch and café menu – freshly prepared in-house, with care and quality at the heart of everything we do. When the day winds down, La Goccia Dolce becomes a haven for dessert lovers, with our homemade creations tempting you until 11:30pm.<br /><br />
-        As a family business, every detail matters to us – from the ingredients we choose to the way we welcome you at the door. Our goal is simple: to make every visit feel like a little escape, filled with warmth and flavor.
+        From 8am to 4pm, we serve a comforting brunch and café menu freshly prepared in-house, with care and quality at the heart of everything we do. When the day winds down, La Goccia Dolce becomes a haven for dessert lovers, with our homemade creations tempting you until 11:30pm.<br /><br />
+        As a family business, every detail matters to us from the ingredients we choose to the way we welcome you at the door. Our goal is simple: to make every visit feel like a little escape, filled with warmth and flavor.
       </p>
       <div className="address-block">
       </div>
