@@ -1,0 +1,55 @@
+{
+    "HOT DRINKS": [
+      { "name": "Americano", "price_classic": "£2.80", "price_grande": "£3.20" },
+      { "name": "Caffè Latte", "price_classic": "£3.10", "price_grande": "£3.60" },
+      { "name": "Cappuccino", "price_classic": "£3.10", "price_grande": "£3.60" },
+      { "name": "Caramel Macchiato", "price_classic": "£3.60", "price_grande": "£4.10" },
+      { "name": "Spanish Latte", "price_classic": "£3.99", "price_grande": "£4.49" },
+      { "name": "Chai Latte", "price_classic": "£2.99", "price_grande": "£3.49" },
+      { "name": "Vanilla Latte", "price_classic": "£3.40", "price_grande": "£3.90" },
+      { "name": "Flat White", "price_classic": "£3.10", "price_grande": "£3.60" },
+      { "name": "Latte Cinnamon", "price_classic": "£3.30", "price_grande": "£3.80" },
+      { "name": "Mystic Mocha", "price_classic": "£3.60", "price_grande": "£4.10" },
+      { "name": "Pumpkin Spice Latte", "price_classic": "£3.70", "price_grande": "£4.20" },
+      { "name": "White Choc Mocha", "price_classic": "£3.70", "price_grande": "£4.20" },
+      { "name": "Golden Latte", "price_classic": "£3.70", "price_grande": "£4.20" },
+      { "name": "Espresso Shot", "price_classic": "£2.50", "price_grande": "£2.80" },
+      { "name": "Babychino", "price_classic": "£FREE", "price_grande": "£FREE" }
+    ],
+    "COLD DRINKS": [
+      { "name": "Iced Coffee", "price_16oz": "£2.99", "price_20oz": "£3.40" },
+      { "name": "Iced Caffè Latte", "price_16oz": "£3.60", "price_20oz": "£4.10" },
+      { "name": "Iced Caramel Macchiato", "price_16oz": "£4.10", "price_20oz": "£4.89" },
+      { "name": "Chilled Spanish Latte", "price_16oz": "£4.50", "price_20oz": "£4.80" },
+      { "name": "Iced Vanilla Latte", "price_16oz": "£3.80", "price_20oz": "£4.20" },
+      { "name": "Iced Latte Cinnamon", "price_16oz": "£3.99", "price_20oz": "£4.20" },
+      { "name": "Iced Caffè Mocha", "price_16oz": "£3.99", "price_20oz": "£4.50" },
+      { "name": "Iced White Choc Mocha", "price_16oz": "£3.99", "price_20oz": "£4.50" },
+      { "name": "Caffè Affogato", "price": "£3.90", "description": "£3.90 - A timeless taste of Italy, cool gelato meets bold espresso" }
+    ],
+    "MATCHA SELECTION": [
+      { "name": "Iced Matcha Latte (16oz)", "price": "£4.20" },
+      { "name": "Iced Strawberry Matcha Latte (16oz)", "price": "£4.90" },
+      { "name": "Iced Mango Matcha Latte (16oz)", "price": "£4.90" },
+      { "name": "Hot Matcha Latte (12oz)", "price": "£3.10" }
+    ],
+    "LOOSE LEAF TEA": [
+      { "name": "Classic Black", "price": "£2.49" },
+      { "name": "English Tea", "price": "£2.49" },
+      { "name": "Earl Grey", "price": "£2.49" },
+      { "name": "Jasmin", "price": "£2.49" },
+      { "name": "Chamomile", "price": "£2.49" },
+      { "name": "Apple Tea", "price": "£2.49" },
+      { "name": "Lemon & Ginger", "price": "£2.49" },
+      { "name": "Peppermint", "price": "£2.49" },
+      { "name": "Hibiscus", "price": "£2.49" },
+      { "name": "Dandelion", "price": "£2.49" }
+    ],
+    "FRAPPÉ": [
+      { "name": "Caramel", "price": "£4.19" },
+      { "name": "Vanilla", "price": "£4.19" },
+      { "name": "Mocha", "price": "£4.19" },
+      { "name": "Strawberry", "price": "£4.19" }
+    ]
+  }
+  

@@ -1,12 +1,11 @@
 import React from "react";
+import Menu from "../components/Menu";
+import dessertsMenuData from "../data/desserts.json";
 
 const Desserts = () => (
   <section className="page-section">
     <h2 style={{color:'#d4af37'}}>Desserts</h2>
-    <p>
-      Sweet temptations are on the way!<br />
-      Our desserts menu will showcase classic Italian dolci and British treats—coming soon.
-    </p>
+    <Menu menuData={dessertsMenuData}/>
   </section>
 );
 

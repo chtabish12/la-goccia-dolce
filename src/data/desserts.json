@@ -1,0 +1,21 @@
+{
+    "DESSERT MENU": [
+      { "name": "Waffle di Lusso", "price": "£6.99" },
+      { "name": "Gelato Buns", "price": "£4.49" },
+      { "name": "Dolce Shakes", "price": "£5.49" },
+      { "name": "Warm Brownie Melts", "price": "£4.49" },
+      { "name": "Cookie Dough", "price": "£5.99" },
+      { "name": "Donuts", "price": "£2.49" },
+      { "name": "Milkcakes", "price": "£5.49" },
+      { "name": "Cakes", "price": "from £3.99" },
+      { "name": "Cheesecakes", "price": "from £3.99" },
+      { "name": "Virgin Mojitos", "price": "£4.49" },
+      { "name": "Soft Drinks", "price": "from £1.50" },
+      { "name": "Sundae", "price": "£6.49" },
+      { "name": "DIY Strawberries", "price": "£5.49" },
+      { "name": "Profiteroles", "price": "£4.99" },
+      { "name": "Crepes", "price": "£5.20" },
+      { "name": "Ice Cream", "price": "£2.20" }
+    ]
+  }
+  
