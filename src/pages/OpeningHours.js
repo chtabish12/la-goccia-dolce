@@ -6,8 +6,8 @@ const hours = [
   { day: "Wednesday", hours: "8:00 till 00:00" },
   { day: "Thursday", hours: "8:00 till 00:00" },
   { day: "Friday", hours: "8:00 till 00:00" },
-  { day: "Saturday", hours: "8:00 till 00:00" },
-  { day: "Sunday", hours: "8:00 till 00:00" },
+  { day: "Saturday", hours: "9:00 till 00:00" },
+  { day: "Sunday", hours: "9:00 till 00:00" },
 ];
 
 export default function OpeningHours() {
