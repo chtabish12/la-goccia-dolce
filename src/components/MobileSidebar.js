@@ -12,6 +12,7 @@ const MobileSidebar = ({ open, onClose }) => {
         <NavLink to="/menu" onClick={onClose}>Main</NavLink>
         <NavLink to="/drinks" onClick={onClose}>Drinks</NavLink>
         <NavLink to="/desserts" onClick={onClose}>Desserts</NavLink>
+        <NavLink to="/opening-hours" onClick={onClose}>Opening Hours</NavLink>
         <NavLink to="/contact" onClick={onClose}>Contact Us</NavLink>
       </nav>
     </div>

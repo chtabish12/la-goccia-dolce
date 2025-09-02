@@ -6,7 +6,8 @@ import Home from "./pages/Home";
 import MenuPage from "./pages/MenuPage";
 import Drinks from "./pages/Drinks";
 import Desserts from "./pages/Desserts";
-import Contact from "./pages/Contact";
+import OrderNow from "./pages/Contact";
+import OpeningHours from "./pages/OpeningHours";
 
 function App() {
   return (
@@ -19,7 +20,8 @@ function App() {
             <Route path="/menu" element={<MenuPage />} />
             <Route path="/drinks" element={<Drinks />} />
             <Route path="/desserts" element={<Desserts />} />
-            <Route path="/contact" element={<Contact />} />
+            <Route path="/opening-hours" element={<OpeningHours />} />
+            <Route path="/contact" element={<OrderNow />} />
           </Routes>
         </main>
         <Footer />
